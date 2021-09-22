@@ -1,0 +1,29 @@
+
+div {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 1px solid;
+    bottom: 10px;
+}
+
+option {
+    text-align: center;
+}
+
+label {
+    border: 10px;
+    display: block;
+    text-align: center;
+}
+
+span {
+    text-align: left;
+}
+
+button {
+
+}
+
